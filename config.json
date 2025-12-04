@@ -1,0 +1,6 @@
+{
+    "user_agent": "Sky-Live-com.tgc.sky.win/0.31.5.357549 (To Be Filled By O.E.M.; win 10.0.22621; en)",
+    "max_workers": 10,
+    "request_timeout": 10,
+    "max_retries": 3
+}
